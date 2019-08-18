@@ -20,7 +20,7 @@ The data for the project came from the MNIST. The images can be found [here](htt
 ## Usage
 1) Clone the repo
 ```
-git clone https://github.com/mdylan2/gesture_jester.git
+git clone https://github.com/mdylan2/predicting_hand_sign_language.git
 ```
 2) Download the MNIST data from [here](https://www.kaggle.com/datamunge/sign-language-mnist) and store it the appropriate directory
 3) Run the notebook
